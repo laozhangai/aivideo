@@ -9,5 +9,11 @@ https://video.digilifeform.com （为避免被羊毛党大量白嫖刷脚本，�
 https://blair.digilifeform.com/109
 
 
+有问题或是建议请群内沟通（请写明来意 否则可能不被通过）
+
+
+![image](https://github.com/user-attachments/assets/d120999b-97ac-444b-acc9-a9bbe23b7dfc)
+
+
 
 
