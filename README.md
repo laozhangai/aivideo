@@ -1,5 +1,6 @@
 # aivideo
 一个极简的通过三方api调用runway gen3 turbo 快速实现图生视频的项目
+A minimalist project that quickly generates videos from images using the Runway Gen3 Turbo via a third-party API call.
 
 # 演示demo
 https://video.digilifeform.com （为避免被羊毛党大量白嫖刷脚本，需要授权邮箱，可以加群查看）
