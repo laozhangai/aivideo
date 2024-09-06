@@ -1,0 +1,12 @@
+SMTP_SERVER = smtp.xxx.com
+SMTP_PORT = 465
+SMTP_USERNAME = xxx@xxx.com
+SMTP_PASSWORD = xxxx
+ADMIN_EMAIL = xxx@xxx.com
+DUOMI_API_KEY = xxxx
+AUTH_WORD = xxx
+domain = your.domain.com
+database = xxx
+password = xxx
+user = xxx
+host = localhost
